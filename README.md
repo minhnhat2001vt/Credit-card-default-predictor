@@ -2,6 +2,7 @@
 This is an implementation of different machine learning algorihtms (Neural Network, Support Vector Machine, Logistic Regression, Decision Tree, Random Forest, KNeighborsClassifier) to predict the likelihood of a customer's credit card default. 
 Dataset using: 
 default of credit card clients Data Set (https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients)
+
 Variable description:
 
 D: ID of each client
